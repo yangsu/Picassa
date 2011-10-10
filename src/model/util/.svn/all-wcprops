@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/Picassa/src/model/util
+END
+Pixmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/trunk/Picassa/src/model/util/Pixmap.java
+END
+ColorCombinations.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/Picassa/src/model/util/ColorCombinations.java
+END
+ColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/Picassa/src/model/util/ColorModel.java
+END
+PerlinNoise.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/Picassa/src/model/util/PerlinNoise.java
+END
+RGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/Picassa/src/model/util/RGBColor.java
+END
+PicassaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/Picassa/src/model/util/PicassaException.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/Picassa/src/model/util/Resources.java
+END
